@@ -46,4 +46,10 @@ Artificial Intelligence | Machine Learning | Generative AI | LLM Engineering | A
 
 🤝 Let's Connect
 
+GitHub:
+https://github.com/PraveenGithun-stack
+
+Linkedin:
+https://www.linkedin.com/in/praveen-praveen-637811317
+
 I'm interested in learning, collaborating and building impactful AI applications.
